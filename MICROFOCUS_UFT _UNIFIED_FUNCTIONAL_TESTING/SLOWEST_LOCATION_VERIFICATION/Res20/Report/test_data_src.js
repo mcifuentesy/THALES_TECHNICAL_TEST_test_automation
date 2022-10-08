@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\micha\\Documents\\MICROFOCUS_UFT _UNIFIED_FUNCTIONAL_TESTING\\SLOWEST_LOCATION_VERIFICATION\\Res20',namePairs:[]}]};

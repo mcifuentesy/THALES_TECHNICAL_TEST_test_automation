@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\micha\\Documents\\MICROFOCUS_UFT _UNIFIED_FUNCTIONAL_TESTING\\LOCATIONS_EXTRACT_ROUTE_TIME\\Res6',namePairs:[]}]};

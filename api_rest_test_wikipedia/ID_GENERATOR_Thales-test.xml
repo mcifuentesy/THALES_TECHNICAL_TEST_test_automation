@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="33bc99d2-1abd-4bd7-b750-1a7769f1526a" activeEnvironment="Default" name="ID_GENERATOR (ID 4 A)" resourceRoot="" defaultScriptLanguage="Groovy" soapui-version="5.7.0" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:properties/><con:afterLoadScript>import java.util.Random
+Random random = new Random()
+def min = 1000000
+def max = 10000000
+def randomValue = random.nextInt(max + 1 - min) + min;
+log.info "ID was added: " + randomValue
+</con:afterLoadScript><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:sensitiveInformation/></con:soapui-project>
